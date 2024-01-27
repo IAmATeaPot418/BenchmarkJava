@@ -1,6 +1,7 @@
 name: "CodeQL"
 
 env: 
+
   CODEQL_EXTRACTOR_JAVA_RUN_ANNOTATION_PROCESSORS: true
 
 on:
